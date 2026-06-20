@@ -27,23 +27,17 @@ The lab simulates a small business network and includes domain services, user ad
 
 ## Domain Controller Setup
 
-(Add screenshot here)
-
 Description:
 Installed Active Directory Domain Services and promoted the server to a Domain Controller.
 
 
 ## Organizational Units
 
-(Add screenshot here)
-
 Description:
 Created departmental OUs for IT, HR, Teachers, and Students.
 
 
 ## User and Group Management
-
-(Add screenshot here)
 
 Description:
 Created user accounts and security groups for access management.
@@ -64,11 +58,9 @@ Configured password policies and desktop restrictions using Group Policy Objects
 
 ## Shared Folder Permissions
 
-
 Description:
 Configured NTFS and share permissions using Active Directory security groups.
 
----
 
 ## Skills Demonstrated
 
